@@ -7,4 +7,4 @@ It will try to cover and support most of the cloud storage products including Az
 - 🌍 [Visit FlowSynx website](http://flowsynx.io)
 - 📖 [Documentation](http://flowsynx.io/docs/overview)
 - 💻 [Quick Starts](http://flowsynx.io/docs/getting-started/install-flowsynx-cli)
-- 🔌 [API Reference](http://flowsynx.io/docs/flowsynx-api/use-the-flowsynx-api)
+- 🌐 [API Reference](http://flowsynx.io/docs/flowsynx-api/use-the-flowsynx-api)
